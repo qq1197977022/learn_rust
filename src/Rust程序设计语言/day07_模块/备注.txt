@@ -1,0 +1,7 @@
+1.无法细分, 综合查看
+2.避免对后续学习造成影响, 注释: D:\workspace\rust\learn_rust\Cargo.toml
+                             #communicator = {path="D:\\workspace\\rust\\learn_rust\\src\\day07_模块\\communicator"}
+3.查看时
+    1.复制D:\workspace\rust\learn_rust\src\day07_模块\main.rs
+         替换D:\workspace\rust\learn_rust\src\main.rs
+    2.取消上述注释

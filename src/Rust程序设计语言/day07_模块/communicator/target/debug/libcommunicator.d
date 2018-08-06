@@ -1,0 +1,1 @@
+D:\workspace\rust\learn_rust\src\day07_模块\communicator\target\debug\libcommunicator.rlib: D:\workspace\rust\learn_rust\src\day07_模块\communicator\src\client2.rs D:\workspace\rust\learn_rust\src\day07_模块\communicator\src\lib.rs D:\workspace\rust\learn_rust\src\day07_模块\communicator\src\network2\mod.rs D:\workspace\rust\learn_rust\src\day07_模块\communicator\src\network2\server2.rs

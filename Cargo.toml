@@ -1,0 +1,7 @@
+[package]
+name = "learn_rust"
+version = "0.1.0"
+authors = ["gayt <407961643@qq.com>"]
+
+[dependencies]
+#communicator = {path="D:\\workspace\\rust\\learn_rust\\src\\day07_模块\\communicator"}
